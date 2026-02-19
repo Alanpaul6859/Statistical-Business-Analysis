@@ -6,6 +6,8 @@ Understanding sales behavior, evaluating the impact of marketing spend, and gene
 
 
 
+
+
 🧠 Project Overview
 
 This project performs a complete statistical analysis of business performance data to help organizations make data-driven decisions.
@@ -27,6 +29,8 @@ The goal is to simulate how a data analyst / business analyst supports stakehold
 
 
 
+
+
 🎯 Objectives
 
 Identify patterns in sales and revenue
@@ -39,7 +43,16 @@ Apply statistical hypothesis testing
 
 Generate meaningful business insights
 
-Build a real-world analytics workflow🛠️ Technologies Used
+Build a real-world analytics workflow
+
+
+
+
+
+
+
+
+🛠️ Technologies Used
 
 Python
 
@@ -56,6 +69,9 @@ Jupyter Notebook
 
 
 
+
+
+
 📈 Statistical Techniques Applied
 
 Descriptive Analytics
@@ -65,6 +81,7 @@ Descriptive Analytics
 2. Standard Deviation
 
 3. Distribution Analysis
+
 
 
 
@@ -79,6 +96,8 @@ Inferential Statistics
 4. Correlation Analysis
 
 5. Regression Analysis
+
+
 
 
 Business Analytics
